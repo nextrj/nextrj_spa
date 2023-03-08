@@ -1,0 +1,10 @@
+temp
+build
+dist
+*.lock
+*.log
+try
+try*.*
+app*
+nextrj_spa
+cert/*

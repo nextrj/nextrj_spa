@@ -1,0 +1,1 @@
+# NextRJ Single Page Application
